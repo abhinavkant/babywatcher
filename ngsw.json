@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1664043550008,
-  "index": "/dist/recorder-app/index.html",
+  "timestamp": 1664043838046,
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "recorder-app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/dist/recorder-app/favicon.ico",
-        "/dist/recorder-app/index.html",
-        "/dist/recorder-app/main.1b6105fa14e931d6.js",
-        "/dist/recorder-app/manifest.webmanifest",
-        "/dist/recorder-app/polyfills.6541c097745fb973.js",
-        "/dist/recorder-app/runtime.f77a67c8973880ac.js",
-        "/dist/recorder-app/styles.fd51ec964200c16d.css"
+        "/favicon.ico",
+        "/index.html",
+        "/main.1b6105fa14e931d6.js",
+        "/manifest.webmanifest",
+        "/polyfills.6541c097745fb973.js",
+        "/runtime.f77a67c8973880ac.js",
+        "/styles.fd51ec964200c16d.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/dist/recorder-app/assets/icons/icon-128x128.png",
-        "/dist/recorder-app/assets/icons/icon-144x144.png",
-        "/dist/recorder-app/assets/icons/icon-152x152.png",
-        "/dist/recorder-app/assets/icons/icon-192x192.png",
-        "/dist/recorder-app/assets/icons/icon-384x384.png",
-        "/dist/recorder-app/assets/icons/icon-512x512.png",
-        "/dist/recorder-app/assets/icons/icon-72x72.png",
-        "/dist/recorder-app/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/dist/recorder-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/dist/recorder-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/dist/recorder-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/dist/recorder-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/dist/recorder-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/dist/recorder-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/dist/recorder-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/dist/recorder-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/dist/recorder-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/dist/recorder-app/index.html": "f9f12b26103b4365afadd8c30056048e8f37afe3",
-    "/dist/recorder-app/main.1b6105fa14e931d6.js": "feb6a5f1ef6758d6c549203757ed442c78843c31",
-    "/dist/recorder-app/manifest.webmanifest": "258d09a9a4d4292a302a06bfa9e356c828eefcc7",
-    "/dist/recorder-app/polyfills.6541c097745fb973.js": "ec23e976e04dcb93562d587c9d037d9e26601c1e",
-    "/dist/recorder-app/runtime.f77a67c8973880ac.js": "c19f9c770e71fc2252ce966fa85fbf07c3cd73fb",
-    "/dist/recorder-app/styles.fd51ec964200c16d.css": "6d3b45e94010275a800a09939c39ff67b08a8b6d"
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "0ea3f7ce596a5f85912a223f4dcdd284a996bcea",
+    "/main.1b6105fa14e931d6.js": "feb6a5f1ef6758d6c549203757ed442c78843c31",
+    "/manifest.webmanifest": "258d09a9a4d4292a302a06bfa9e356c828eefcc7",
+    "/polyfills.6541c097745fb973.js": "ec23e976e04dcb93562d587c9d037d9e26601c1e",
+    "/runtime.f77a67c8973880ac.js": "c19f9c770e71fc2252ce966fa85fbf07c3cd73fb",
+    "/styles.fd51ec964200c16d.css": "6d3b45e94010275a800a09939c39ff67b08a8b6d"
   },
   "navigationUrls": [
     {
