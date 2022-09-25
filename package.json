@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "start-pwa": "ng build --configuration production && http-server -p 8080 -c-1 dist/recorder-app/",
-    "predeploy": "ng build --configuration production --base-href=/dist/recorder-app/",
+    "predeploy": "ng build",
     "deploy": "npx gh-pages -d dist/recorder-app"
   },
   "private": true,
